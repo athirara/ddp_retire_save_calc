@@ -1,0 +1,456 @@
+"age","type","percent","years_till_retirement"
+10,"US Stocks",63,55
+10,"International Stocks",27,55
+10,"US Bonds",8,55
+10,"International Bonds",2,55
+10,"Short Term TIPS",0,55
+11,"US Stocks",63,54
+11,"International Stocks",27,54
+11,"US Bonds",8,54
+11,"International Bonds",2,54
+11,"Short Term TIPS",0,54
+12,"US Stocks",63,53
+12,"International Stocks",27,53
+12,"US Bonds",8,53
+12,"International Bonds",2,53
+12,"Short Term TIPS",0,53
+13,"US Stocks",63,52
+13,"International Stocks",27,52
+13,"US Bonds",8,52
+13,"International Bonds",2,52
+13,"Short Term TIPS",0,52
+14,"US Stocks",63,51
+14,"International Stocks",27,51
+14,"US Bonds",8,51
+14,"International Bonds",2,51
+14,"Short Term TIPS",0,51
+15,"US Stocks",63,50
+15,"International Stocks",27,50
+15,"US Bonds",8,50
+15,"International Bonds",2,50
+15,"Short Term TIPS",0,50
+16,"US Stocks",63,49
+16,"International Stocks",27,49
+16,"US Bonds",8,49
+16,"International Bonds",2,49
+16,"Short Term TIPS",0,49
+17,"US Stocks",63,48
+17,"International Stocks",27,48
+17,"US Bonds",8,48
+17,"International Bonds",2,48
+17,"Short Term TIPS",0,48
+18,"US Stocks",63,47
+18,"International Stocks",27,47
+18,"US Bonds",8,47
+18,"International Bonds",2,47
+18,"Short Term TIPS",0,47
+19,"US Stocks",63,46
+19,"International Stocks",27,46
+19,"US Bonds",8,46
+19,"International Bonds",2,46
+19,"Short Term TIPS",0,46
+20,"US Stocks",63,45
+20,"International Stocks",27,45
+20,"US Bonds",8,45
+20,"International Bonds",2,45
+20,"Short Term TIPS",0,45
+21,"US Stocks",63,44
+21,"International Stocks",27,44
+21,"US Bonds",8,44
+21,"International Bonds",2,44
+21,"Short Term TIPS",0,44
+22,"US Stocks",63,43
+22,"International Stocks",27,43
+22,"US Bonds",8,43
+22,"International Bonds",2,43
+22,"Short Term TIPS",0,43
+23,"US Stocks",63,42
+23,"International Stocks",27,42
+23,"US Bonds",8,42
+23,"International Bonds",2,42
+23,"Short Term TIPS",0,42
+24,"US Stocks",63,41
+24,"International Stocks",27,41
+24,"US Bonds",8,41
+24,"International Bonds",2,41
+24,"Short Term TIPS",0,41
+25,"US Stocks",63,40
+25,"International Stocks",27,40
+25,"US Bonds",8,40
+25,"International Bonds",2,40
+25,"Short Term TIPS",0,40
+26,"US Stocks",63,39
+26,"International Stocks",27,39
+26,"US Bonds",8,39
+26,"International Bonds",2,39
+26,"Short Term TIPS",0,39
+27,"US Stocks",63,38
+27,"International Stocks",27,38
+27,"US Bonds",8,38
+27,"International Bonds",2,38
+27,"Short Term TIPS",0,38
+28,"US Stocks",63,37
+28,"International Stocks",27,37
+28,"US Bonds",8,37
+28,"International Bonds",2,37
+28,"Short Term TIPS",0,37
+29,"US Stocks",63,36
+29,"International Stocks",27,36
+29,"US Bonds",8,36
+29,"International Bonds",2,36
+29,"Short Term TIPS",0,36
+30,"US Stocks",63,35
+30,"International Stocks",27,35
+30,"US Bonds",8,35
+30,"International Bonds",2,35
+30,"Short Term TIPS",0,35
+31,"US Stocks",63,34
+31,"International Stocks",27,34
+31,"US Bonds",8,34
+31,"International Bonds",2,34
+31,"Short Term TIPS",0,34
+32,"US Stocks",63,33
+32,"International Stocks",27,33
+32,"US Bonds",8,33
+32,"International Bonds",2,33
+32,"Short Term TIPS",0,33
+33,"US Stocks",63,32
+33,"International Stocks",27,32
+33,"US Bonds",8,32
+33,"International Bonds",2,32
+33,"Short Term TIPS",0,32
+34,"US Stocks",63,31
+34,"International Stocks",27,31
+34,"US Bonds",8,31
+34,"International Bonds",2,31
+34,"Short Term TIPS",0,31
+35,"US Stocks",63,30
+35,"International Stocks",27,30
+35,"US Bonds",8,30
+35,"International Bonds",2,30
+35,"Short Term TIPS",0,30
+36,"US Stocks",63,29
+36,"International Stocks",27,29
+36,"US Bonds",8,29
+36,"International Bonds",2,29
+36,"Short Term TIPS",0,29
+37,"US Stocks",63,28
+37,"International Stocks",27,28
+37,"US Bonds",8,28
+37,"International Bonds",2,28
+37,"Short Term TIPS",0,28
+38,"US Stocks",63,27
+38,"International Stocks",27,27
+38,"US Bonds",8,27
+38,"International Bonds",2,27
+38,"Short Term TIPS",0,27
+39,"US Stocks",63,26
+39,"International Stocks",27,26
+39,"US Bonds",8,26
+39,"International Bonds",2,26
+39,"Short Term TIPS",0,26
+40,"US Stocks",61,25
+40,"International Stocks",26,25
+40,"US Bonds",10.5,25
+40,"International Bonds",2.5,25
+40,"Short Term TIPS",0,25
+41,"US Stocks",61,24
+41,"International Stocks",26,24
+41,"US Bonds",10.5,24
+41,"International Bonds",2.5,24
+41,"Short Term TIPS",0,24
+42,"US Stocks",61,23
+42,"International Stocks",26,23
+42,"US Bonds",10.5,23
+42,"International Bonds",2.5,23
+42,"Short Term TIPS",0,23
+43,"US Stocks",61,22
+43,"International Stocks",26,22
+43,"US Bonds",10.5,22
+43,"International Bonds",2.5,22
+43,"Short Term TIPS",0,22
+44,"US Stocks",61,21
+44,"International Stocks",26,21
+44,"US Bonds",10.5,21
+44,"International Bonds",2.5,21
+44,"Short Term TIPS",0,21
+45,"US Stocks",60.1,20
+45,"International Stocks",25.8,20
+45,"US Bonds",11.3,20
+45,"International Bonds",2.8,20
+45,"Short Term TIPS",0,20
+46,"US Stocks",60.1,19
+46,"International Stocks",25.8,19
+46,"US Bonds",11.3,19
+46,"International Bonds",2.8,19
+46,"Short Term TIPS",0,19
+47,"US Stocks",60.1,18
+47,"International Stocks",25.8,18
+47,"US Bonds",11.3,18
+47,"International Bonds",2.8,18
+47,"Short Term TIPS",0,18
+48,"US Stocks",60.1,17
+48,"International Stocks",25.8,17
+48,"US Bonds",11.3,17
+48,"International Bonds",2.8,17
+48,"Short Term TIPS",0,17
+49,"US Stocks",60.1,16
+49,"International Stocks",25.8,16
+49,"US Bonds",11.3,16
+49,"International Bonds",2.8,16
+49,"Short Term TIPS",0,16
+50,"US Stocks",54.9,15
+50,"International Stocks",23.5,15
+50,"US Bonds",17.3,15
+50,"International Bonds",4.3,15
+50,"Short Term TIPS",0,15
+51,"US Stocks",54.9,14
+51,"International Stocks",23.5,14
+51,"US Bonds",17.3,14
+51,"International Bonds",4.3,14
+51,"Short Term TIPS",0,14
+52,"US Stocks",54.9,13
+52,"International Stocks",23.5,13
+52,"US Bonds",17.3,13
+52,"International Bonds",4.3,13
+52,"Short Term TIPS",0,13
+53,"US Stocks",54.9,12
+53,"International Stocks",23.5,12
+53,"US Bonds",17.3,12
+53,"International Bonds",4.3,12
+53,"Short Term TIPS",0,12
+54,"US Stocks",54.9,11
+54,"International Stocks",23.5,11
+54,"US Bonds",17.3,11
+54,"International Bonds",4.3,11
+54,"Short Term TIPS",0,11
+55,"US Stocks",49.6,10
+55,"International Stocks",21.3,10
+55,"US Bonds",23.3,10
+55,"International Bonds",5.8,10
+55,"Short Term TIPS",0,10
+56,"US Stocks",49.6,9
+56,"International Stocks",21.3,9
+56,"US Bonds",23.3,9
+56,"International Bonds",5.8,9
+56,"Short Term TIPS",0,9
+57,"US Stocks",49.6,8
+57,"International Stocks",21.3,8
+57,"US Bonds",23.3,8
+57,"International Bonds",5.8,8
+57,"Short Term TIPS",0,8
+58,"US Stocks",49.6,7
+58,"International Stocks",21.3,7
+58,"US Bonds",23.3,7
+58,"International Bonds",5.8,7
+58,"Short Term TIPS",0,7
+59,"US Stocks",49.6,6
+59,"International Stocks",21.3,6
+59,"US Bonds",23.3,6
+59,"International Bonds",5.8,6
+59,"Short Term TIPS",0,6
+60,"US Stocks",44.4,5
+60,"International Stocks",19,5
+60,"US Bonds",29.3,5
+60,"International Bonds",7.3,5
+60,"Short Term TIPS",0,5
+61,"US Stocks",44.4,4
+61,"International Stocks",19,4
+61,"US Bonds",29.3,4
+61,"International Bonds",7.3,4
+61,"Short Term TIPS",0,4
+62,"US Stocks",44.4,3
+62,"International Stocks",19,3
+62,"US Bonds",29.3,3
+62,"International Bonds",7.3,3
+62,"Short Term TIPS",0,3
+63,"US Stocks",44.4,2
+63,"International Stocks",19,2
+63,"US Bonds",29.3,2
+63,"International Bonds",7.3,2
+63,"Short Term TIPS",0,2
+64,"US Stocks",44.4,1
+64,"International Stocks",19,1
+64,"US Bonds",29.3,1
+64,"International Bonds",7.3,1
+64,"Short Term TIPS",0,1
+65,"US Stocks",38.2,0
+65,"International Stocks",16.3,0
+65,"US Bonds",32,0
+65,"International Bonds",9.1,0
+65,"Short Term TIPS",4.4,0
+66,"US Stocks",38.2,-1
+66,"International Stocks",16.3,-1
+66,"US Bonds",32,-1
+66,"International Bonds",9.1,-1
+66,"Short Term TIPS",4.4,-1
+67,"US Stocks",38.2,-2
+67,"International Stocks",16.3,-2
+67,"US Bonds",32,-2
+67,"International Bonds",9.1,-2
+67,"Short Term TIPS",4.4,-2
+68,"US Stocks",38.2,-3
+68,"International Stocks",16.3,-3
+68,"US Bonds",32,-3
+68,"International Bonds",9.1,-3
+68,"Short Term TIPS",4.4,-3
+69,"US Stocks",38.2,-4
+69,"International Stocks",16.3,-4
+69,"US Bonds",32,-4
+69,"International Bonds",9.1,-4
+69,"Short Term TIPS",4.4,-4
+70,"US Stocks",29.5,-5
+70,"International Stocks",12.6,-5
+70,"US Bonds",34.8,-5
+70,"International Bonds",11.6,-5
+70,"Short Term TIPS",11.5,-5
+71,"US Stocks",29.5,-6
+71,"International Stocks",12.6,-6
+71,"US Bonds",34.8,-6
+71,"International Bonds",11.6,-6
+71,"Short Term TIPS",11.5,-6
+72,"US Stocks",29.5,-7
+72,"International Stocks",12.6,-7
+72,"US Bonds",34.8,-7
+72,"International Bonds",11.6,-7
+72,"Short Term TIPS",11.5,-7
+73,"US Stocks",29.5,-8
+73,"International Stocks",12.6,-8
+73,"US Bonds",34.8,-8
+73,"International Bonds",11.6,-8
+73,"Short Term TIPS",11.5,-8
+74,"US Stocks",29.5,-9
+74,"International Stocks",12.6,-9
+74,"US Bonds",34.8,-9
+74,"International Bonds",11.6,-9
+74,"Short Term TIPS",11.5,-9
+75,"US Stocks",29.5,-10
+75,"International Stocks",12.6,-10
+75,"US Bonds",34.8,-10
+75,"International Bonds",11.6,-10
+75,"Short Term TIPS",11.5,-10
+76,"US Stocks",29.5,-11
+76,"International Stocks",12.6,-11
+76,"US Bonds",34.8,-11
+76,"International Bonds",11.6,-11
+76,"Short Term TIPS",11.5,-11
+77,"US Stocks",29.5,-12
+77,"International Stocks",12.6,-12
+77,"US Bonds",34.8,-12
+77,"International Bonds",11.6,-12
+77,"Short Term TIPS",11.5,-12
+78,"US Stocks",29.5,-13
+78,"International Stocks",12.6,-13
+78,"US Bonds",34.8,-13
+78,"International Bonds",11.6,-13
+78,"Short Term TIPS",11.5,-13
+79,"US Stocks",29.5,-14
+79,"International Stocks",12.6,-14
+79,"US Bonds",34.8,-14
+79,"International Bonds",11.6,-14
+79,"Short Term TIPS",11.5,-14
+80,"US Stocks",29.5,-15
+80,"International Stocks",12.6,-15
+80,"US Bonds",34.8,-15
+80,"International Bonds",11.6,-15
+80,"Short Term TIPS",11.5,-15
+81,"US Stocks",29.5,-16
+81,"International Stocks",12.6,-16
+81,"US Bonds",34.8,-16
+81,"International Bonds",11.6,-16
+81,"Short Term TIPS",11.5,-16
+82,"US Stocks",29.5,-17
+82,"International Stocks",12.6,-17
+82,"US Bonds",34.8,-17
+82,"International Bonds",11.6,-17
+82,"Short Term TIPS",11.5,-17
+83,"US Stocks",29.5,-18
+83,"International Stocks",12.6,-18
+83,"US Bonds",34.8,-18
+83,"International Bonds",11.6,-18
+83,"Short Term TIPS",11.5,-18
+84,"US Stocks",29.5,-19
+84,"International Stocks",12.6,-19
+84,"US Bonds",34.8,-19
+84,"International Bonds",11.6,-19
+84,"Short Term TIPS",11.5,-19
+85,"US Stocks",29.5,-20
+85,"International Stocks",12.6,-20
+85,"US Bonds",34.8,-20
+85,"International Bonds",11.6,-20
+85,"Short Term TIPS",11.5,-20
+86,"US Stocks",29.5,-21
+86,"International Stocks",12.6,-21
+86,"US Bonds",34.8,-21
+86,"International Bonds",11.6,-21
+86,"Short Term TIPS",11.5,-21
+87,"US Stocks",29.5,-22
+87,"International Stocks",12.6,-22
+87,"US Bonds",34.8,-22
+87,"International Bonds",11.6,-22
+87,"Short Term TIPS",11.5,-22
+88,"US Stocks",29.5,-23
+88,"International Stocks",12.6,-23
+88,"US Bonds",34.8,-23
+88,"International Bonds",11.6,-23
+88,"Short Term TIPS",11.5,-23
+89,"US Stocks",29.5,-24
+89,"International Stocks",12.6,-24
+89,"US Bonds",34.8,-24
+89,"International Bonds",11.6,-24
+89,"Short Term TIPS",11.5,-24
+90,"US Stocks",29.5,-25
+90,"International Stocks",12.6,-25
+90,"US Bonds",34.8,-25
+90,"International Bonds",11.6,-25
+90,"Short Term TIPS",11.5,-25
+91,"US Stocks",29.5,-26
+91,"International Stocks",12.6,-26
+91,"US Bonds",34.8,-26
+91,"International Bonds",11.6,-26
+91,"Short Term TIPS",11.5,-26
+92,"US Stocks",29.5,-27
+92,"International Stocks",12.6,-27
+92,"US Bonds",34.8,-27
+92,"International Bonds",11.6,-27
+92,"Short Term TIPS",11.5,-27
+93,"US Stocks",29.5,-28
+93,"International Stocks",12.6,-28
+93,"US Bonds",34.8,-28
+93,"International Bonds",11.6,-28
+93,"Short Term TIPS",11.5,-28
+94,"US Stocks",29.5,-29
+94,"International Stocks",12.6,-29
+94,"US Bonds",34.8,-29
+94,"International Bonds",11.6,-29
+94,"Short Term TIPS",11.5,-29
+95,"US Stocks",29.5,-30
+95,"International Stocks",12.6,-30
+95,"US Bonds",34.8,-30
+95,"International Bonds",11.6,-30
+95,"Short Term TIPS",11.5,-30
+96,"US Stocks",29.5,-31
+96,"International Stocks",12.6,-31
+96,"US Bonds",34.8,-31
+96,"International Bonds",11.6,-31
+96,"Short Term TIPS",11.5,-31
+97,"US Stocks",29.5,-32
+97,"International Stocks",12.6,-32
+97,"US Bonds",34.8,-32
+97,"International Bonds",11.6,-32
+97,"Short Term TIPS",11.5,-32
+98,"US Stocks",29.5,-33
+98,"International Stocks",12.6,-33
+98,"US Bonds",34.8,-33
+98,"International Bonds",11.6,-33
+98,"Short Term TIPS",11.5,-33
+99,"US Stocks",29.5,-34
+99,"International Stocks",12.6,-34
+99,"US Bonds",34.8,-34
+99,"International Bonds",11.6,-34
+99,"Short Term TIPS",11.5,-34
+100,"US Stocks",29.5,-35
+100,"International Stocks",12.6,-35
+100,"US Bonds",34.8,-35
+100,"International Bonds",11.6,-35
+100,"Short Term TIPS",11.5,-35
